@@ -1,0 +1,15 @@
+﻿<Window x:Class="Grad_WPF.MainWindow"
+           xmlns:form="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+     
+        <ListBox x:Name="listBox">
+            
+        </ListBox>
+        
+       
+    </Grid>
+</Window>
